@@ -1,0 +1,15 @@
+.navbar{
+    background: #ccd7e6;
+    height: 64px;
+    border: none !important;
+}
+.navbar .navbar-brand{
+    margin-top: -13px;
+}
+.navbar .navbar-brand img{
+
+}
+
+@media screen and (max-width: 1262px) {
+   
+    }
